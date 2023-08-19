@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 str1 = "object"
-str2 = "-oriented"
+str2 = "oriented"
 str3 = " programming"
 str4 = " with Python"
-print(str1 + str2[1:] + str3 + str4)
+print(str1 + "-" + str2 + str3 + str4)
