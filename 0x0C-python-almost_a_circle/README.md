@@ -1,8 +1,4 @@
-This readme contains the decsription of the project and the function of all scripts in detail.
 
-# Almost a Circle - Python Project
-
-![Circle](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
 
 This project showcases my proficiency in Python object-oriented programming, as demonstrated through the implementation of three interconnected classes representing rectangles and squares. To ensure the robustness of the code, I developed a comprehensive test suite using the `unittest` module, covering all functionalities of each class.
 
